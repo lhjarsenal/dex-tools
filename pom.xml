@@ -37,6 +37,12 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<!-- eth web3j -->
+		<dependency>
+			<groupId>org.web3j</groupId>
+			<artifactId>core</artifactId>
+			<version>4.9.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
